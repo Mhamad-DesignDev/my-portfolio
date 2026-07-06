@@ -117,16 +117,16 @@ body {
   .Hero-Section {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    /* justify-content: space-around; */
     padding: 20px 10px;
     align-items: center;
     text-align: center;
     gap: 30px;
-
     min-height: 100vh;
     min-height: 100dvh;
     width: 100%;
     box-sizing: border-box;
+    margin: auto;
   }
   .image {
     width: 180px;
