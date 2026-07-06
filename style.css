@@ -117,10 +117,12 @@ body {
   .Hero-Section {
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
+    padding: 20px 10px;
     align-items: center;
     text-align: center;
     gap: 30px;
-    margin-top: 40px;
+
     min-height: 100vh;
     min-height: 100dvh;
     width: 100%;
